@@ -5,7 +5,7 @@
     background-color: #2361a0 !important;
 }
 .subpageTitle h1, .subpageTitle h2, .subpageTitle h3, .subpageTitle h4, .subpageTitle h5, .subpageTitle h6 {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 400;
     color: #ffffff;
@@ -52,21 +52,21 @@ img {
     text-transform: uppercase;
 }
 .contactForm input[type="submit"] {
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding-top: 13px;
     padding-bottom: 13px;
+    background-color: #00aeef;
 }
 .contactForm input {
-  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .contactForm textarea {
-  font-family: 'Open Sans Condensed', sans-serif;
-
+  font-family: 'Roboto', sans-serif;
 }
 .list-group .navHighlight, .list-group .navHighlight:hover {
     /* background-color: transparent; */
-    background-color: #a06223;
-    border-color: #DCE0E3;
+    background-color: #cccccc;
+    border-color: #cccccc;
 }
 .list-group-item {
     position: relative;
@@ -81,7 +81,7 @@ img {
 }
 .pageSidebar {
     padding-right: 70px;
-    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 .list-group .list-group-item:first-child {
     border-top: none;
@@ -100,14 +100,12 @@ img {
 .sidebar-widget a {
     text-decoration: none;
 }
-
 .list-group .list-group-item {
     padding: 18px 0 18px 9px;
 }
 .list-group .navHighlight, .list-group .navHighlight:hover {
-    /* background-color: transparent; */
-    background-color: #a06223;
-    border-color: #DCE0E3;
+    background-color: #cccccc;
+    border-color: #cccccc;
 }
 .list-group .list-group-item {
     border-left: none;
