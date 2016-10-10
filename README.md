@@ -3,7 +3,7 @@ Not all contact us pages are created equal. In this article, [Solodev](https://w
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [Crafting an Effective Contact Us Page]() article.
+For detailed instructions, view Solodev's [Crafting an Effective Contact Us Page](https://www.solodev.com/blog/web-design/crafting-an-effective-contact-us-page.stml) article.
 
 ## Demo
 
